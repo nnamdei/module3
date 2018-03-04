@@ -1,0 +1,1 @@
+After creating a branch and pushing to origin, I would like to know if it is mandatory to click the create pull request and compare prompt on github web interface
